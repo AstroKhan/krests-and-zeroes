@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Отобразите позицию для каждого хода в формате (колонка, строка) в списке истории ходов.
+Выделите выбранный элемент в списке ходов.
+Перепишите Board, используя вложенные циклы для создания клеток, вместо их жёсткого кодирования.
+Добавьте переключатель, который позволит вам сортировать ходы по возрастанию или по убыванию.
+Когда кто-то выигрывает, подсветите три клетки, которые привели к победе.
+Когда победителя нет, покажите сообщение о том, что игра окончилась вничью.
